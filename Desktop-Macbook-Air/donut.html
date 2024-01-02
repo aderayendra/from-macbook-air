@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Spinning Donut</title>
+  </head>
+  <body>
+    <canvas id="donut" width="300" height="300"></canvas>
+    <script>
+      const canvas = document.getElementById("donut");
+      const context = canvas.getContext("2d");
+      const width = (canvas.width = 300);
+      const height = (canvas.height = 300);
+
+      const R1 = 1;
+      const R2 = 2;
+      const K1 = 150;
+      const K2 = 10;
+      const A = 1;
+      const B = 1;
+
+      let phi = 0;
+
+      function render() {
+        phi += 0.03;
+
+        const cosPhi = Math.cos(phi);
+        const sinPhi = Math.sin(phi);
+
+        context.clearRect(0, 0, width, height);
+
+        for (let theta = 0; theta <= Math.PI * 2; theta += 0.07) {
+          const cosTheta = Math.cos(theta);
+          const sinTheta = Math.sin(theta);
+
+          const x = R2 + R1 * cosTheta;
+          const y = R1 * sinTheta;
+
+          const dx = x * (K1 + cosPhi) + y * sinPhi * K2;
+          const dy = y * (K1 + cosPhi) - x * sinPhi * K2;
+
+          const v = A + B * Math.cos(theta * 3 + phi);
+          const grayscale = Math.floor(240 - v * 30);
+
+          context.fillStyle = `rgb(${grayscale}, ${grayscale}, ${grayscale})`;
+          context.fillRect(dx * 50 + width / 2, dy * 50 + height / 2, 1, 1);
+        }
+
+        requestAnimationFrame(render);
+      }
+
+      render();
+    </script>
+  </body>
+</html>

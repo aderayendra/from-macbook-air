@@ -1,0 +1,523 @@
+Name,Phone 1 - Type,Phone 1 - Value,SHORT,Group Membership,Organization 1 - Type,Organization 1 - Value
+AAS-S ADRI PRIANDES,Mobile,+62 852-6377-0580,FALSE,* myContacts,Sekolah,SMPN 1 IV Koto Aur Malintang
+AAS-S SALDA EF VITA,Mobile,+62 823-6968-1130,FALSE,* myContacts,Sekolah,SDN 29 LUBUK ALUNG
+AAS-O YEN HENDRI.SE.MM,Mobile,+62 813-6326-8499,FALSE,* myContacts,OPD,Dinas Penanaman Modal Pelayanan Terpadu dan Perindustrian
+AAS-S NOFIYANTI,Mobile,+62 852-7404-6033,FALSE,* myContacts,Sekolah,SMPN 5 Sungai Limau
+AAS-S SAMIAR.S.PD,Mobile,+62 853-5508-8735,FALSE,* myContacts,Sekolah,SDN 11 Batang Gasan
+AAS-S JUSMAWARNI,Mobile,+62 821-6905-0575,FALSE,* myContacts,Sekolah,SDN 33 Sungai Limau
+AAS-S GUSTI AIDA,Mobile,+62 853-6305-4381,FALSE,* myContacts,Sekolah,SDN 06 Sungai Limau
+AAS-S LIZA OCTIVA,Mobile,+62 812-6760-0481,FALSE,* myContacts,Sekolah,SDN 08 Enam Lingkung
+"AAS-S IMELDA SAPUTRI, S.PD",Mobile,+62 852-6531-3323,FALSE,* myContacts,Sekolah,TK Pembina Kecamatan
+AAS-P RANDA ILHAM,Mobile,+62 822-8324-1341,FALSE,* myContacts,Puskesmas,Puskesmas Padang Alai
+AAS-P MERY PUSPAWITA,Mobile,+62 823-8521-4019,FALSE,* myContacts,Puskesmas,Puskesmas Enam Lingkung
+AAS-S ELVITA WARDANI,Mobile,+62 823-2184-1441,FALSE,* myContacts,Sekolah,SDN 21 Lubuk Alung
+AAS-O MELLY YUNIZRA,Mobile,+62 831-8282-2405,FALSE,* myContacts,OPD,Dinas Komunikasi dan Informatika
+AAS-S NOLSA PUTRA,Mobile,+62 813-7493-5941,FALSE,* myContacts,Sekolah,SDN 02 V KOTO KAMPUNG DALAM
+AAS-P NIA NANDIATI,Mobile,+62 813-6499-6307,FALSE,* myContacts,Puskesmas,Puskesmas Koto Bangko
+AAS-S SEPTIA DEWI ASRI,Mobile,+62 822-8835-3949,FALSE,* myContacts,Sekolah,SDN 29 BATANG  ANAI
+AAS-S NETIS SURYANDA,Mobile,+62 821-7000-5677,FALSE,* myContacts,Sekolah,SDN 27 VII KOTO SUNGAI SARIK
+AAS-S RABINSON,Mobile,+62 852-6357-9085,FALSE,* myContacts,Sekolah,SDN 15 Ulakan Tapakis 
+AAS-S JUNEL RISI VOLNI,Mobile,+62 853-6306-6250,FALSE,* myContacts,Sekolah,SMPN 1 Enam Lingkung
+AAS-S ABD. LILAH,Mobile,+62 812-4362-0757,FALSE,* myContacts,Sekolah,SDN 08 IV Koto Aur Malintang
+AAS-S PIRA SISKA RAMA,Mobile,+62 823-8432-7203,FALSE,* myContacts,Sekolah,SDN 08 Sungai Geringging
+AAS-K LUKMANUL HAKIM,Mobile,+62 812-6661-4749,FALSE,* myContacts,Kecamatan,Kantor Camat 2x11 Kayu Tanam
+AAS-S YULI FARIDA,Mobile,+62 853-6352-3228,FALSE,* myContacts,Sekolah,SDN 06 Nan Sabaris
+AAS-S YULI SUMARNI ASAAT,Mobile,+62 852-6486-5555,FALSE,* myContacts,Sekolah,SDN 10 Padang Sago
+AAS-S FATRI YENNI,Mobile,+62 852-7882-7210,FALSE,* myContacts,Sekolah,SMPN 1 VII Koto Sungai Sarik
+AAS-S DEBY SISKA,Mobile,+62 812-7030-6554,FALSE,* myContacts,Sekolah,SDN 16 Batang Gasan
+AAS-S SRI AGUSTINA,Mobile,+62 812-7777-3752,FALSE,* myContacts,Sekolah,SDN 17 Sintuk Toboh Gadang
+AAS-S YULI SUMARNI ASAAT,Mobile,+62 852-6486-5555,FALSE,* myContacts,Sekolah,SDN 02 Padang Sago
+AAS-S NENI TRIANA SUSANTI,Mobile,+62 812-7623-3965,FALSE,* myContacts,Sekolah,SDN 09 Lubuk Alung
+AAS-S FEMI CINTIYA RIDMA,Mobile,+62 813-7454-4996,FALSE,* myContacts,Sekolah,SDN 11 V KOTO KAMPUNG DALAM
+AAS-S NOVRITA ALFITRI,Mobile,+62 831-8140-6396,FALSE,* myContacts,Sekolah,SDN 11 2X11 Enam Lingkung
+AAS-S FADLI MARSENO,Mobile,+62 823-4750-5173,FALSE,* myContacts,Sekolah,SDN 10 2x11 Kayutanam
+AAS-S MIRA VERMANA,Mobile,+62 813-6577-2973,FALSE,* myContacts,Sekolah,SDN 15 V Koto Kampung Dalam
+AAS-S MELISA SUKARNI,Mobile,+62 852-6302-9151,FALSE,* myContacts,Sekolah,SD 10 Sintuk Toboh Gadang
+AAS-S RIFKI ROZA,Mobile,+62 813-7474-0670,FALSE,* myContacts,Sekolah,SMPN 3 Batang Anai
+AAS-S AYU SARTIKA,Mobile,+62 853-7511-8849,FALSE,* myContacts,Sekolah,SDN 30 Lubuk Alung
+AAS-S DASMAWATI,Mobile,+62 852-6517-7778,FALSE,* myContacts,Sekolah,SD 02 VII Koto Sungai Sarik
+AAS-S YULI,Mobile,+62 812-6626-1608,FALSE,* myContacts,Sekolah,SMPN 1 2X11 KAYUTANAM
+AAS-S DINI YUNITA,Mobile,+62 822-1376-4766,FALSE,* myContacts,Sekolah,SDN 02 V KOTO TIMUR
+AAS-S RIKI HERMANTO,Mobile,+62 852-6356-1433,FALSE,* myContacts,Sekolah,SDN 08 Lubuk Alung
+AAS-S SUCI MAHARANI,Mobile,+62 823-8419-1489,FALSE,* myContacts,Sekolah,SDN 16 2X11 KAYUTANAM
+AAS-S MILA AGUSTINA,Mobile,+62 815-3409-3607,FALSE,* myContacts,Sekolah,SMPN 2 Padang Sago
+AAS-S AMINAH LAVIA,Mobile,+62 853-6374-4847,FALSE,* myContacts,Sekolah,SMPN 2 Lubuk Alung
+AAS-R WALDI,Mobile,+62 812-6124-8213,FALSE,* myContacts,Rumah Sakit,Rumah Sakit Umum Daerah
+AAS-S AFRIZAL,Mobile,+62 813-7431-1357,FALSE,* myContacts,Sekolah,SDN 16 Ulakan Tapakis
+AAS-S YENNI NOVIHERA,Mobile,+62 812-7788-5883,FALSE,* myContacts,Sekolah,SDN 17 V KOTO KAMPUNG DALAM
+AAS-S HASNELI,Mobile,+62 813-7459-4083,FALSE,* myContacts,Sekolah,SDN 12 VII KOTO SUNGAI SARIK
+AAS-S NOPI YUNITA,Mobile,+62 823-8355-2134,FALSE,* myContacts,Sekolah,SDN 24 Sungai Geringging
+AAS-S SYAMSIMAH,Mobile,+62 852-7473-4641,FALSE,* myContacts,Sekolah,SDN 05 V KOTO KAMPUNG DALAM
+AAS-S MUSNIATI,Mobile,+62 852-6387-6694,FALSE,* myContacts,Sekolah,SDN 06 Batang Gasan 
+AAS-S E YADI,Mobile,+62 852-7462-1996,FALSE,* myContacts,Sekolah,SMPN 3 V Koto Kampung Dalam
+AAS-O TRI MURTI,Mobile,+62 813-6476-8340,FALSE,* myContacts,OPD,Kantor Kesatuan Bangsa dan Politik
+AAS-S JIMMI ERIANTO PUTRA,Mobile,+62 822-3231-0724,FALSE,* myContacts,Sekolah,SDN 03 V Koto Kampung Dalam
+AAS-S DASWARD,Mobile,+62 813-6305-8028,FALSE,* myContacts,Sekolah,SDN 06 V Koto Kampung Dalam
+AAS-S RIZKI RAMADHAN,Mobile,+62 851-6264-7909,FALSE,* myContacts,Sekolah,SDN 14 Sungai Limau
+AAS-S EMI LITA HERA,Mobile,+62 813-6312-5865,FALSE,* myContacts,Sekolah,SDN 09 PADANG SAGO
+AAS-S RESTI HAYANI,Mobile,+62 813-7106-4040,FALSE,* myContacts,Sekolah,SDN 14 V Koto Kampung Dalam
+AAS-S NOVIANA NOPITRI,Mobile,+62 813-7443-0543,FALSE,* myContacts,Sekolah,SDN 25 Sungai Geringging
+AAS-P YESSI AFRIANI,Mobile,+62 852-7403-7470,FALSE,* myContacts,Puskesmas,Puskesmas Gasan Gadang
+AAS-S NINI ANDRIANI,Mobile,+62 823-8918-2957,FALSE,* myContacts,Sekolah,SDN 30 Sungai Geringging
+AAS-S ZULFIANI KHAIRA,Mobile,+62 852-6316-3686,FALSE,* myContacts,Sekolah,SDN 16 Lubuk Alung
+AAS-S ZULHELMI,Mobile,+62 813-6302-1969,FALSE,* myContacts,Sekolah,SMP Negeri 1 Sintuk Toboh Gadang 
+AAS-P FANI ARSYAD,Mobile,+62 877-6813-9922,FALSE,* myContacts,Puskesmas,Puskesmas Kayu Tanam
+"AAS-S DEFIRA YANTI, S.PD",Mobile,+62 813-1948-5948,FALSE,* myContacts,Sekolah,SDN 03 ENAM LINGKUNG
+AAS-O ERDIAN RAHMANA PUTRA,Mobile,+62 853-6446-9314,FALSE,* myContacts,OPD,Badan Penanggulanngan Bencana Daerah
+AAS-P SILVIA ARGAMELI,Mobile,+62 821-7039-4101,FALSE,* myContacts,Puskesmas,Puskesmas Ulakan
+AAS-S HANDRI AMIR,Mobile,+62 822-8401-7683,FALSE,* myContacts,Sekolah,SMPN 2 V Koto Timur
+AAS-O RICKY KURNIAWAN,Mobile,+62 812-6813-3365,FALSE,* myContacts,OPD,Dinas Peternakan dan Kesehatan Hewan
+AAS-S NOVIRMAN,Mobile,+62 812-6753-5494,FALSE,* myContacts,Sekolah,SDN 07 lubuk alung
+AAS-S ASMAWATI,Mobile,+62 812-6765-6869,FALSE,* myContacts,Sekolah,SDN 05 IV KOTO AUR MALINTANG
+AAS-P NURKHAIRA MANEL,Mobile,+62 823-1180-5238,FALSE,* myContacts,Puskesmas,Puskesmas Ketaping
+AAS-S SUCI RAMA FITRI,Mobile,+62 852-6303-4280,FALSE,* myContacts,Sekolah,SDN 08 V Koto Timur
+AAS-S BAYTY RAHMAH,Mobile,+62 813-6331-9902,FALSE,* myContacts,Sekolah,TK Swasta Wilayah I
+AAS-S DEWI HASTUTI,Mobile,+62 813-6347-4883,FALSE,* myContacts,Sekolah,SDN 06 2 X 11 Kayu Tanam
+AAS-S NURSENTIA PITRI,Mobile,+62 838-4187-2072,FALSE,* myContacts,Sekolah,SMPN 2 Batang Gasan
+AAS-K MARZAINI,Mobile,+62 852-6322-6231,FALSE,* myContacts,Kecamatan,Kantor Camat V Koto Kampung Dalam
+AAS-S ZANIMAR,Mobile,+62 852-7248-4346,FALSE,* myContacts,Sekolah,SDN 10 VII Koto Sungai Sarik 
+"AAS-O JEBRIL AL SYANUR, S.STP, M.IP",Mobile,+62 852-1110-4764,FALSE,* myContacts,OPD,Dinas Perdagangan TKUKM
+AAS-S AMZAH,Mobile,+62 813-6335-7402,FALSE,* myContacts,Sekolah,SDN 06 Patamuan
+AAS-S ARMAINI,Mobile,+62 812-7844-6584,FALSE,* myContacts,Sekolah,SMPN 1 Lubuk ALung
+AAS-S MISRAWATI,Mobile,+62 822-8436-7741,FALSE,* myContacts,Sekolah,SMPN 3 IV Koto Aur Malintang
+AAS-S INDRA CHANIAGO,Mobile,+62 852-6454-0364,FALSE,* myContacts,Sekolah,SDN 20 V KOTO TIMUR
+AAS-S MUTI YULIASTRI,Mobile,+62 813-6472-8543,FALSE,* myContacts,Sekolah,SMPN 4 Sungai Limau
+AAS-P AFIF QUSYAIRI YUZA,Mobile,+62 812-6194-3344,FALSE,* myContacts,Puskesmas,Puskesmas Lubuk Alung
+"AAS-S YULIANIS,S.PD.SD",Mobile,+62 852-6345-3760,FALSE,* myContacts,Sekolah,SDN 07 SUNGAI GERINGGING
+AAS-O NOFRINALDI,Mobile,+62 852-7419-9375,FALSE,* myContacts,OPD,Dinas Pertanian dan Ketahanan Pangan
+AAS-S WAHYUDI TRIDARMA,Mobile,+62 852-7487-8403,FALSE,* myContacts,Sekolah,SDN 37 SUNGAI LIMAU
+AAS-O SEPTIA LILI WAHYUNI,Mobile,+62 852-6550-3994,FALSE,* myContacts,OPD,Dinas Perikanan
+AAS-O FARIDA GUSRIAWATY,Mobile,+62 812-6756-5344,FALSE,* myContacts,OPD,Dinas Pendidikan dan Kebudayaan
+AAS-P ASRIL HUSNI,Mobile,+62 852-7270-4264,FALSE,* myContacts,Puskesmas,Puskesmas Sungai Limau
+AAS-S NASWAN,Mobile,+62 813-6386-0767,FALSE,* myContacts,Sekolah,SDN 33 LUBUK ALUNG 
+AAS-O TISNA,Mobile,+62 813-6324-6411,FALSE,* myContacts,OPD,Dinas Pekerjaan Umum dan Penataan Ruang
+AAS-S NANDA ZULFAHMI,Mobile,+62 822-8302-0722,FALSE,* myContacts,Sekolah,SMPN 3 Sungai Geringging
+AAS-O KHADIJAH,Mobile,+62 813-7462-1282,FALSE,* myContacts,OPD,Dinas Pemberdayaan Masyarakat dan Desa
+AAS-S RICKY NURWANDI,Mobile,+62 813-7471-1617,FALSE,* myContacts,Sekolah,SDN 19 BATANG ANAI
+AAS-S ANISMAINI,Mobile,+62 822-8850-1695,FALSE,* myContacts,Sekolah,SDN 19 VII Koto Sungai Sarik
+"AAS-S SYAFRI MIARDI, A.MD",Mobile,+62 813-6343-4212,FALSE,* myContacts,Sekolah,SMPN 1 2x11 Enam Lingking
+AAS-S DENI YULIANTI,Mobile,+62 852-6362-9658,FALSE,* myContacts,Sekolah,SMPN 3 2x11 Kayutanam
+AAS-S JANA PRIA,Mobile,+62 813-6491-8430,FALSE,* myContacts,Sekolah,SDN 19 Batang Gasan
+AAS-S SAMPURNA AWI JENI,Mobile,+62 852-6348-1494,FALSE,* myContacts,Sekolah,SDN 19 Lubuk Alung
+AAS-S NOVEL KURNIAWAN,Mobile,+62 852-6323-7145,FALSE,* myContacts,Sekolah,SDN 14 BATANG ANAI
+AAS-S RUSDI HAMDANI,Mobile,+62 822-6899-6987,FALSE,* myContacts,Sekolah,SDN 17 VII koto Sungai Sarik
+AAS-P DWI SARTIKA N,Mobile,+62 852-6358-6262,FALSE,* myContacts,Puskesmas,Puskesmas Sicincin
+AAS-O KARDIMAN,Mobile,+62 821-6963-8323,FALSE,* myContacts,OPD,Dinas Lingkungan Hidup Perumahan Kawasan Permukiman dan Pertanahan
+AAS-S WIDYA ASNITA,Mobile,+62 822-8368-6778,FALSE,* myContacts,Sekolah,SDN 23 V Koto Kampung Dalam
+AAS-S MAYZUL HENDRO FIRMAN,Mobile,+62 823-8499-4532,FALSE,* myContacts,Sekolah,SDN 22 Sungai Geringging
+AAS-S DESI YULIA SARI,Mobile,+62 812-8296-8021,FALSE,* myContacts,Sekolah,SDN 03 Batang Gasan
+AAS-S MERI EKA PUTRI,Mobile,+62 822-9758-3604,FALSE,* myContacts,Sekolah,SDN 01 V Koto Kampung Dalam 
+AAS-O BERTI INDAH SARI,Mobile,+62 823-9016-4660,FALSE,* myContacts,OPD,Badan Perencanaan Penelitian dan Pengembangan Daerah 
+AAS-S TRIMURTI,Mobile,+62 813-6430-0461,FALSE,* myContacts,Sekolah,SDN 04 2X11 ENAM LINGKUNG
+AAS-S DIKI NOPRIADI,Mobile,+62 851-5732-0117,FALSE,* myContacts,Sekolah,SDN 28 V KOTO KAMPUNG DALAM
+AAS-S NENGSIH IDRAMAYANTI,Mobile,+62 821-7203-5078,FALSE,* myContacts,Sekolah,SDN 02 Sungai Geringging
+AAS-S HANAFI,Mobile,+62 853-6307-3500,FALSE,* myContacts,Sekolah,SMPN 2 Sungai Limau
+AAS-P TIFANNY GABRIEL,Mobile,+62 852-1670-0925,FALSE,* myContacts,Puskesmas,Puskesmas Pauh Kambar
+AAS-S ANISA,Mobile,+62 831-8744-2324,FALSE,* myContacts,Sekolah,SDN 11 Batang Anai
+AAS-S RIKA MARSONI,Mobile,+62 812-6619-6755,FALSE,* myContacts,Sekolah,SDN 01 IV Koto Aur Malintang
+AAS-P MEIYOLA ARISKA,Mobile,+62 813-6378-9841,FALSE,* myContacts,Puskesmas,Puskesmas Sikucur
+AAS-S RIRIN OFRI NAFISA,Mobile,+62 822-8533-3268,FALSE,* myContacts,Sekolah,SDN 31 SUNGAI LIMAU
+AAS-S AFIFAH,Mobile,+62 812-6131-3760,FALSE,* myContacts,Sekolah,SD 30 Sungai Limau
+"AAS-K ARRAHMAN DIATMAJA, S. SOS",Mobile,+62 812-4863-1258,FALSE,* myContacts,Kecamatan,Kantor Camat Lubuk Alung
+"AAS-K ELPISAR, SE",Mobile,+62 823-8435-6952,FALSE,* myContacts,Kecamatan,Kecamatan Patamuan
+AAS-S ELSA FITRI,Mobile,+62 813-6330-5444,FALSE,* myContacts,Sekolah,SDN 09 IV KOTO AUR MALINTANG
+AAS-P ELSA FITRI,Mobile,+62 823-9110-3993,FALSE,* myContacts,Puskesmas,Puskesmas Sintuk
+AAS-K EDDI YANDRI PUTRA,Mobile,+62 812-7733-3735,FALSE,* myContacts,Kecamatan,Kecamatan Sungai Geringging
+AAS-S RONI CANDRA,Mobile,+62 822-8810-5337,FALSE,* myContacts,Sekolah,SDN 22 V Koto Kampung Dalam
+AAS-K ZULKIFLI,Mobile,+62 813-6539-2402,FALSE,* myContacts,Kecamatan,Kecamatan Sungai Limau
+AAS-P YULIA HARTATI,Mobile,+62 822-8835-2641,FALSE,* myContacts,Puskesmas,Puskesmas Batu Basa
+AAS-S M.SYAHLAN,Mobile,+62 853-6377-0885,FALSE,* myContacts,Sekolah,SDN 15 Patamuan
+AAS-O CISSILA ZAYU,Mobile,+62 887-6740-236,TRUE,* myContacts,OPD,Dinas Kearsipan dan Perpustakaan
+AAS-S SYAFRIZAL,Mobile,+62 821-7444-5155,FALSE,* myContacts,Sekolah,SDN 19 V Koto Kampung Dalam
+AAS-S PERMI,Mobile,+62 813-7428-6797,FALSE,* myContacts,Sekolah,SDN 03 SUNGAI LIMAU
+AAS-L ZAINARLIS,Mobile,+62 852-6829-6108,FALSE,* myContacts,Lainnya,UPTD Laboratorium Dinas Kesehatan
+AAS-P NOVI PUTRIANA DEWI,Mobile,+62 822-8847-8210,FALSE,* myContacts,Puskesmas,Puskesmas Sikabu
+AAS-S YOSEFRIZAL,Mobile,+62 822-8821-5154,FALSE,* myContacts,Sekolah,SDN 10 IV KOTO AUR MALINTANG
+AAS-S ADITIA LUKMAN,Mobile,+62 823-9265-0503,FALSE,* myContacts,Sekolah,SDN 09 Sungai Limau
+"AAS-S BIRMAN,S.PD.SD",Mobile,+62 813-6318-2266,FALSE,* myContacts,Sekolah,SDN 13 ULAKAN TAPAKIS
+AAS-S NURMAINI,Mobile,+62 853-5616-2648,FALSE,* myContacts,Sekolah,SDN 01 Padang Sago
+AAS-S MIKE MACELINA,Mobile,+62 852-6379-9284,FALSE,* myContacts,Sekolah,SD 02 Sintuak Toboh Gadang
+AAS-O HARDI FARDIAN,Mobile,+62 813-6347-5168,FALSE,* myContacts,OPD,Badan Kepegawaian Dan Pengembangan Sumber Daya Manusia
+AAS-O GUSMA RAMAYANI,Mobile,+62 823-8686-0840,FALSE,* myContacts,OPD,Dinas Pengendalian Penduduk dan KB
+"AAS-O FAUZI AKBAR, A.MD",Mobile,+62 813-6886-9386,FALSE,* myContacts,OPD,Dinas Perhubungan
+AAS-S YOSEP IRLANDA,Mobile,+62 822-6844-8440,FALSE,* myContacts,Sekolah,SDN 10 V Koto Kampung Dalam
+AAS-L DEDI SUTMAN,Mobile,+62 813-6328-3585,FALSE,* myContacts,Lainnya,UPTD Instalasi Farmasi
+AAS-S RONI,Mobile,+62 822-1848-1876,FALSE,* myContacts,Sekolah,SDN 20 Nan Sabaris
+AAS-S MAISYARAH RITONGA,Mobile,+62 852-6388-9190,FALSE,* myContacts,Sekolah,TK Swasta Wilayah IV
+AAS-S YASNI,Mobile,+62 812-6692-9777,FALSE,* myContacts,Sekolah,SDN 20 VII Koto Sungai Sarik 
+AAS-S AFRIZAL  ALI,Mobile,+62 812-6156-9534,FALSE,* myContacts,Sekolah,SDN 26 Sungai Geringging
+AAS-S MAYANG ALIFIA ADIS,Mobile,+62 812-6647-6041,FALSE,* myContacts,Sekolah,SDN 30 BATANG ANAI
+AAS-S ARISMAN,Mobile,+62 812-6709-1871,FALSE,* myContacts,Sekolah,SDN 10 Ulakan Tapakis
+AAS-S ERA ELVIRA,Mobile,+62 813-7292-5177,FALSE,* myContacts,Sekolah,SMPN 2 Nan Sabaris
+AAS-S MERI SUSANTI,Mobile,+62 821-7027-0012,FALSE,* myContacts,Sekolah,SDN 24 Lubuk Alung
+AAS-P SEPTYA DWI KURNIAWATI,Mobile,+62 813-6588-5050,FALSE,* myContacts,Puskesmas,Puskesmas Padang Sago
+AAS-S YURIKA AIDIA FITRI,Mobile,+62 823-9246-3467,FALSE,* myContacts,Sekolah,SDN 11 PADANG SAGO
+AAS-O SYOFRION MANSYUR,Mobile,+62 812-7622-863,TRUE,* myContacts,OPD,Satuan Polisi Pamong Praja dan Pemadam Kebakaran
+AAS-S FEBBHIE PUTRI S,Mobile,+62 823-8170-7440,FALSE,* myContacts,Sekolah,SDN 24 Batang Anai
+AAS-O YOSCHA WILANDA,Mobile,+62 895-6037-43546,FALSE,* myContacts,OPD,Sekretariat DPRD
+AAS-S LIA PATRAYETI,Mobile,+62 822-8848-5456,FALSE,* myContacts,Sekolah,SDN 10 V KOTO TIMUR
+"AAS-K ELMI NOVIA,S.GZ",Mobile,+62 813-7820-1431,FALSE,* myContacts,Kecamatan,Kecamatan VII Koto Sungai Sariak
+AAS-S FATHUR RAHMAN,Mobile,+62 877-8281-8622,FALSE,* myContacts,Sekolah,SDIT MALIK KARIM
+AAS-S REZI MELISA,Mobile,+62 822-8838-9133,FALSE,* myContacts,Sekolah,SDN 24 V KOTO KAMPUNG DALAM
+AAS-S ANNAHDI,Mobile,+62 822-8449-5978,FALSE,* myContacts,Sekolah,SDN 08 Padang Sago
+AAS-S AIDIL MISWAR,Mobile,+62 822-7849-0257,FALSE,* myContacts,Sekolah,SDN 22 IV KOTO Aur Malintang
+AAS-S HUDAL KIYA ZAKRI,Mobile,+62 822-8455-7323,FALSE,* myContacts,Sekolah,SDN 21 sungai Geringging 
+AAS-S YETNAWATI,Mobile,+62 856-6455-0141,FALSE,* myContacts,Sekolah,SDN 03 Sungai Geringging
+"AAS-S RINA YUHELDI,S.PD",Mobile,+62 821-7685-3232,FALSE,* myContacts,Sekolah,SDN 23 LUBUK ALUNG
+AAS-S SUARDI,Mobile,+62 812-6790-7102,FALSE,* myContacts,Sekolah,SDN 14 Batang Gasan
+AAS-S SANTUN AWI JASICA,Mobile,+62 852-6364-2017,FALSE,* myContacts,Sekolah,SDN 16 Sintuk Toboh Gadang
+"AAS-S MULIA, S.PD",Mobile,+62 813-6447-1239,FALSE,* myContacts,Sekolah,SMPN 1 Batang Gasan
+AAS-S FEBRIYANI,Mobile,+62 812-6161-5595,FALSE,* myContacts,Sekolah,SDN 25 V Koto Kampung Dalam
+AAS-S JASRI,Mobile,+62 852-7167-4231,FALSE,* myContacts,Sekolah,SDN 21 SUNGAI LIMAU
+AAS-S DAHNIL ZUANDA,Mobile,+62 812-2024-5854,FALSE,* myContacts,Sekolah,SDN 12 SUNGAI GERINGGING
+AAS-S ASWIL INDRA,Mobile,+62 812-6713-4766,FALSE,* myContacts,Sekolah,SDN 16 BATANG ANAI
+AAS-S ERIK FIRNANDO,Mobile,+62 822-8583-3173,FALSE,* myContacts,Sekolah,SMPN 3 LUBUK ALUNG
+AAS-S JAMALUDDIN,Mobile,+62 813-6309-9848,FALSE,* myContacts,Sekolah,SD 31 VII Koto
+AAS-S RAMAYULIS RAHMAN,Mobile,+62 822-8545-5204,FALSE,* myContacts,Sekolah,SDN 17 SUNGAI GERINGGING
+AAS-S ELISA PERTIWI LIZOR,Mobile,+62 852-6531-5262,FALSE,* myContacts,Sekolah,SDN 03 2 X 11 KAYU TANAM
+AAS-S FITRI PRIMADONA,Mobile,+62 853-5616-0467,FALSE,* myContacts,Sekolah,SDN 04 V KOTO KAMPUNG DALAM
+AAS-S IRMA DEWI,Mobile,+62 852-7430-1373,FALSE,* myContacts,Sekolah,SDN 23 BATANG ANAI
+AAS-S DIANA PUSPA INDAH,Mobile,+62 822-8341-4115,FALSE,* myContacts,Sekolah,SDN 28 Sungai Geringging
+AAS-S MISLIZAWATI,Mobile,+62 812-7587-9356,FALSE,* myContacts,Sekolah,SDN 07 BATANG ANAI
+AAS-S SISKA OKTAVIA,Mobile,+62 812-6853-6134,FALSE,* myContacts,Sekolah,SDN 26 Lubuk Alung 
+AAS-S SERLI AFRADILA SARI,Mobile,+62 853-6308-2961,FALSE,* myContacts,Sekolah,SDN 13 2X11 Kayutanam
+AAS-S NOFRIZAL,Mobile,+62 813-6311-3349,FALSE,* myContacts,Sekolah,SMPN 3 Batang Gasan
+AAS-P ARISKA SILVIANA,Mobile,+62 823-8230-0599,FALSE,* myContacts,Puskesmas,Puskesmas Ampalu
+AAS-S HERMAN,Mobile,+62 812-6893-9845,FALSE,* myContacts,Sekolah,SDN 29 Sungai Limau
+AAS-P STEFANI ANDRI,Mobile,+62 859-2583-4000,FALSE,* myContacts,Puskesmas,Puskesmas Anduring
+AAS-S NURBAITI,Mobile,+62 813-6335-0378,FALSE,* myContacts,Sekolah,SDN 08 VII KOTO SUNGAI SARIK
+AAS-S NENI GUSNI YENTI,Mobile,+62 812-6776-5604,FALSE,* myContacts,Sekolah,SMPN 1 V KOTO KAMPUNG DALAM
+AAS-S JARNILIS,Mobile,+62 812-6623-0191,FALSE,* myContacts,Sekolah,SDN 06 Sungai Geringging
+"AAS-S LAILI SURYANI, S.PD.SD",Mobile,+62 821-7079-1477,FALSE,* myContacts,Sekolah,SDN 09 2X11 ENAM LINGKUNG
+AAS-S OKI PUTRA,Mobile,+62 813-1533-8195,FALSE,* myContacts,Sekolah,SDN 21 IV Koto Aur Malintang
+AAS-S UMIL HUSNI,Mobile,+62 852-6334-2083,FALSE,* myContacts,Sekolah,SDN 11 V Koto Timur
+AAS-S SAMSIMAR,Mobile,+62 821-7011-9380,FALSE,* myContacts,Sekolah,SDN 04 SINTUK TOBOH GADANG
+AAS-P AYU PERMATA SARI,Mobile,+62 823-9061-5115,FALSE,* myContacts,Puskesmas,Puskesmas Kampung Dalam
+AAS-S RIMELDA GUSMITA,Mobile,+62 823-8915-9164,FALSE,* myContacts,Sekolah,SDN 12 SUNGAI LIMAU 
+AAS-P LOVINA VELESIA ILMA,Mobile,+62 823-8211-1108,FALSE,* myContacts,Puskesmas,Puskesmas Pasar Usang
+AAS-P ANDAM AR-RAHMI,Mobile,+62 821-1133-7636,FALSE,* myContacts,Puskesmas,Puskesmas Patamuan
+"AAS-O HARFAN MAYLAND, S.PD",Mobile,+62 852-1976-9139,FALSE,* myContacts,OPD,Dinas Pariwisata Pemuda dan Olahraga
+AAS-S RENY OKTAVIA,Mobile,+62 813-7287-5003,FALSE,* myContacts,Sekolah,SMPN 3 VII KOTO SUNGAI SARIK
+AAS-S JARIDA,Mobile,+62 812-1551-4481,FALSE,* myContacts,Sekolah,SDN 14 ENAM LINGKUNG
+AAS-S ZULIARTI,Mobile,+62 852-6301-0133,FALSE,* myContacts,Sekolah,SDN 09 Batang Gasan
+AAS-K MARTATI HIDAYAT,Mobile,+62 813-7451-9384,FALSE,* myContacts,Kecamatan,Kecamatan 2 x 11 Enam Lingkung
+AAS-S EKA NURJASMI,Mobile,+62 813-7407-5009,FALSE,* myContacts,Sekolah,SMP N 1 Sungai Geringging
+AAS-S SULASTRI,Mobile,+62 813-7422-4754,FALSE,* myContacts,Sekolah,SDN 13 V Koto Timur
+AAS-S HAYATUL RAHMI MALTA,Mobile,+62 852-7481-3380,FALSE,* myContacts,Sekolah,SDN 01 V Koto Timur
+AAS-S EVAZUALMI,Mobile,+62 813-7428-1969,FALSE,* myContacts,Sekolah,SDN 06 SINTOGA
+AAS-S GUSNELI EKA PUTRI,Mobile,+62 821-7097-6841,FALSE,* myContacts,Sekolah,SDN 11 Lubuk Alung
+AAS-S ERA NURAITA,Mobile,+62 812-6105-7229,FALSE,* myContacts,Sekolah,SDN 04 IV Koto Aur Malintang
+AAS-S ALFIAN TARMIZI,Mobile,+62 853-6596-4591,FALSE,* myContacts,Sekolah,SDN 17 Ulakan Tapakis
+AAS-S DEDI ADRIANSYAH,Mobile,+62 852-7816-8910,FALSE,* myContacts,Sekolah,SDN 12 V Koto Timur
+AAS-S AFRINALDI,Mobile,+62 853-6412-6818,FALSE,* myContacts,Sekolah,SDN 02 Patamuan
+AAS-O HADI ANSHARY MARTHA,Mobile,+62 813-2852-9522,FALSE,* myContacts,OPD,Dinas Kesehatan
+AAS-S GUSTI MARNI,Mobile,+62 822-6833-9413,FALSE,* myContacts,Sekolah,SMPN 3 Patamuan
+"AAS-S ALFIAN TARMIZI, S.PD.I",Mobile,+62 853-6596-4591,FALSE,* myContacts,Sekolah,SD 09 ULAKAN TAPAKIS
+AAS-S MERI ULFA SARI,Mobile,+62 813-3808-0092,FALSE,* myContacts,Sekolah,SDN 04 Patamuan
+AAS-S ASAM DALIR,Mobile,+62 813-6330-9937,FALSE,* myContacts,Sekolah,SDN 13 IV KOTO AUR MALINTANG
+AAS-O RINA ANGRIANI,Mobile,+62 813-6400-5050,FALSE,* myContacts,OPD,Dinas Kependudukan dan Pencatatan Sipil
+AAS-P YULISA FITRI,Mobile,+62 823-9139-2821,FALSE,* myContacts,Puskesmas,Puskesmas Sungai Geringging
+AAS-S RAMALAH TAHER,Mobile,+62 852-6366-5201,FALSE,* myContacts,Sekolah,SDN 01 2X11 ENAM LINGKUNG
+AAS-S SHINTIYA MUSTIKA,Mobile,+62 822-6887-6113,FALSE,* myContacts,Sekolah,SDN 09 V Koto Timur
+AAS-S DIAN NUR AZZAYANTI,Mobile,+62 822-8165-5446,FALSE,* myContacts,Sekolah,SDN 09 BATANG ANAI
+AAS-S FEBRITA IRNANDA,Mobile,+62 823-8903-4611,FALSE,* myContacts,Sekolah,SD 09 Enam Lingkung
+AAS-S AFNI JULITA,Mobile,+62 852-7467-6772,FALSE,* myContacts,Sekolah,SDN 08 Nan Sabaris 
+AAS-S NOVITA ANWAR,Mobile,+62 823-9214-4202,FALSE,* myContacts,Sekolah,SDN 27 Sungai Geringging
+AAS-P PUTRI AYU,Mobile,+62 823-8761-0791,FALSE,* myContacts,Puskesmas,Puskesmas Kampung Guci
+AAS-S NOVI PUTRISNAINI BURHAN,Mobile,+62 856-6904-7000,FALSE,* myContacts,Sekolah,SMPN 3 Ulakan Tapakis
+AAS-S FITRIANI,Mobile,+62 821-7530-8319,FALSE,* myContacts,Sekolah,SMPN 02 2X11 KAYUTANAM
+AAS-S ROMI SILVIA,Mobile,+62 813-6327-2139,FALSE,* myContacts,Sekolah,SMPN 1 Patamuan
+AAS-S BELIA ADHA,Mobile,+62 821-7050-5992,FALSE,* myContacts,Sekolah,SMPN 4 Lubuk Alung
+AAS-S ADE PUTRA,Mobile,+62 852-7102-0794,FALSE,* myContacts,Sekolah,SMPN 01 Ulakan Tapakis
+AAS-S RINA SURYA,Mobile,+62 822-6941-7747,FALSE,* myContacts,Sekolah,SDN 10 2X11 Enam Lingkung
+AAS-S RAMAYANTI,Mobile,+62 813-7445-2456,FALSE,* myContacts,Sekolah,SDN 25 VII Koto Sungai Sariak
+AAS-P DEVIMARLINA,Mobile,+62 852-7278-1342,FALSE,* myContacts,Puskesmas,Puskesmas Sungai Sariak
+"AAS-S JULI ERNITA, S.PD.SD",Mobile,+62 813-7402-1598,FALSE,* myContacts,Sekolah,SDN 13 SINTUK TOBOH GADANG
+"AAS-S MUSTIKA DESLIA,S.KOM",Mobile,+62 852-6469-9269,FALSE,* myContacts,Sekolah,SDN 26 VII KOTO SUNGAI SARIK
+AAS-S YULISNA,Mobile,+62 812-7089-2448,FALSE,* myContacts,Sekolah,SDN 07 V KOTO KAMPUNG DALAM
+AAS-S RISKA OKTAMA KASRA,Mobile,+62 813-8566-5154,FALSE,* myContacts,Sekolah,SMPN 2 VII Koto
+AAS-S ELIZARTI,Mobile,+62 852-7471-1268,FALSE,* myContacts,Sekolah,SDN 12 Enam Lingkung
+AAS-O YULFENDRI,Mobile,+62 823-8342-8584,FALSE,* myContacts,OPD,Badan Pengelola Keuangan Daerah
+AAS-S ESISKA RAHMAYULI,Mobile,+62 813-7114-3624,FALSE,* myContacts,Sekolah,SMPN 2 Sungai Geringging
+AAS-S ASNI,Mobile,+62 822-6882-7285,FALSE,* myContacts,Sekolah,SMPN 2 V Koto Kampung Dalam
+AAS-O MUTIA SABERKO,Mobile,+62 813-6361-6401,FALSE,* myContacts,OPD,SMPN 6 Lubuk Alung
+AAS-S MULYANA SAFITRI,Mobile,+62 813-6498-5175,FALSE,* myContacts,Sekolah,SDN 02 2 x 11 Kayutanam 
+AAS-S AYUNI PUTRI,Mobile,+62 813-6498-5176,FALSE,* myContacts,Sekolah,SDN 01 2X11 KAYUTANAM
+AAS-S JUNAIDI,Mobile,+62 813-7464-4617,FALSE,* myContacts,Sekolah,SDN 10 Enam Lingkung
+AAS-S DESI ANDRY YANI,Mobile,+62 823-8474-5327,FALSE,* myContacts,Sekolah,SDN 15 Sintuk Toboh Gadang
+AAS-S SERLY MONICA,Mobile,+62 813-6303-6360,FALSE,* myContacts,Sekolah,SMP 2 2x11 Enam Lingkung
+AAS-S AZIZAH,Mobile,+62 852-6343-3900,FALSE,* myContacts,Sekolah,SD 01 Enam Lingkung
+AAS-S RINA AFRIZA,Mobile,+62 813-6328-6118,FALSE,* myContacts,Sekolah,SMPN 2 ULAKAN TAPAKIS
+AAS-S ANDRE HERMANTO,Mobile,+62 822-4238-2805,FALSE,* myContacts,Sekolah,SDN 04 V Koto Timur
+AAS-S YUSNIAR,Mobile,+62 813-7209-6591,FALSE,* myContacts,Sekolah,SDN 06 2X11 Enam Lingkung
+AAS-S YUSUF,Mobile,+62 812-6708-9810,FALSE,* myContacts,Sekolah,SDN 01 Patamuan
+AAS-S ZUL AFNI,Mobile,+62 813-6331-3247,FALSE,* myContacts,Sekolah,SDN 05 Patamuan
+AAS-S NOVIA ELIYASONI,Mobile,+62 822-6895-3418,FALSE,* myContacts,Sekolah,SDN 05 2X11 ENAM LINGKUNG
+AAS-S RESIPITRIYENTI,Mobile,+62 823-8959-8446,FALSE,* myContacts,Sekolah,SMPN 1 NAN SABARIS
+AAS-S ERA RAHMADIA,Mobile,+62 821-2216-8414,FALSE,* myContacts,Sekolah,SMPN 4 2x11 Kayutanam
+AAS-O MARLENA,Mobile,+62 821-6945-8410,FALSE,* myContacts,OPD,Sekretariat Daerah
+AAS-S REZA RESITA,Mobile,+62 815-3434-9726,FALSE,* myContacts,Sekolah,SDN 08 2X11 KAYUTANAM
+AAS-S LISA SALSABILA,Mobile,+62 812-7654-4102,FALSE,* myContacts,Sekolah,SDN 08 V KOTO KAMPUNG DALAM
+AAS-S YELVA ZURITA,Mobile,+62 813-7801-2662,FALSE,* myContacts,Sekolah,SDN 04 2x11 Kayutanam
+AAS-S ALDANERWATI,Mobile,+62 852-7405-7956,FALSE,* myContacts,Sekolah,SDN 04 VII KOTO SUNGAI SARIK
+AAS-S YULIARNI,Mobile,+62 822-8358-8571,FALSE,* myContacts,Sekolah,SDN 18 SUNGAI LIMAU
+AAS-S YULIANUS TAVIP,Mobile,+62 821-7257-8639,FALSE,* myContacts,Sekolah,SDN 02 2X11 ENAM LINGKUNG
+AAS-S JUMAISIL,Mobile,+62 812-6777-3915,FALSE,* myContacts,Sekolah,SDN 09 SUNGAI GERINGGING
+AAS-S FIRDAUS FAUZI,Mobile,+62 853-7435-9585,FALSE,* myContacts,Sekolah,SDN 21 V KOTO KAMPUNG DALAM
+AAS-S HASTININGSIH,Mobile,+62 813-6542-0832,FALSE,* myContacts,Sekolah,SDN 14 Sintuk Toboh Gadang
+AAS-S RIYO NALDI,Mobile,+62 812-6190-8820,FALSE,* myContacts,Sekolah,SDN 10 SUNGAI GERINGGING
+AAS-S BERRIDH AMILIN,Mobile,+62 822-8522-9048,FALSE,* myContacts,Sekolah,SDN 05 Nan Sabaris
+AAS-S AZNIDAWATI,Mobile,+62 812-6609-3712,FALSE,* myContacts,Sekolah,SDN 07 2X11 ENAM LINGKUNG
+AAS-S BUJANG,Mobile,+62 852-6393-4271,FALSE,* myContacts,Sekolah,SDN 01 SUNGAI LIMAU
+AAS-S NURSEHA,Mobile,+62 823-8671-4507,FALSE,* myContacts,Sekolah,SDN 08 2x11 Enam Lingkung
+AAS-S SILVIA SEPTRY YANTI MARUZEN,Mobile,+62 823-9115-7867,FALSE,* myContacts,Sekolah,SDN 08 SUNGAI LIMAU
+AAS-S MUFANELTI,Mobile,+62 812-6727-5927,FALSE,* myContacts,Sekolah,SDN 16 Enam Lingkung
+"AAS-S DELIATI, S.PD.SD",Mobile,+62 813-6319-3476,FALSE,* myContacts,Sekolah,SDN 15 VII Koto Sungai Sarik
+AAS-S NITA BENDRA YENTI,Mobile,+62 823-8970-5654,FALSE,* myContacts,Sekolah,SDN 03 2X11 ENAM LINGKUNG
+AAS-S RAHMI AGUSTI,Mobile,+62 813-7498-0410,FALSE,* myContacts,Sekolah,SDN 03 Batang Anai
+AAS-S ZAINI WARLIS,Mobile,+62 823-9269-0116,FALSE,* myContacts,Sekolah,SDN 11 Enam Lingkung
+AAS-S DESMILITA,Mobile,+62 813-7465-2240,FALSE,* myContacts,Sekolah,SDN 13 Enam Lingkung
+AAS-S ASNIWATI,Mobile,+62 823-8738-8287,FALSE,* myContacts,Sekolah,SDN 27 Batang Anai
+"AAS-S DENI YUNANDA, S. PD",Mobile,+62 822-8882-8903,FALSE,* myContacts,Sekolah,SDN 17 2x11 Kayutanam
+AAS-S RIPAL TANJUNG,Mobile,+62 853-6418-6040,FALSE,* myContacts,Sekolah,SDN 14 Sungai Geringging
+AAS-S JANEWARTI,Mobile,+62 812-6667-2353,FALSE,* myContacts,Sekolah,SDN 05 2X11 KAYUTANAM
+AAS-S YULIANIS,Mobile,+62 823-9130-3361,FALSE,* myContacts,Sekolah,SDN 06 Lubuk Alung
+AAS-S ELSA NURCAHYA,Mobile,+62 823-8443-5659,FALSE,* myContacts,Sekolah,SDN 03 Sintuk Toboh Gadang 
+AAS-S ARNETTI,Mobile,+62 822-8449-9883,FALSE,* myContacts,Sekolah,SDN 23 Sungai Limau
+AAS-S RAHMI EKA PUTRI,Mobile,+62 812-3045-5908,FALSE,* myContacts,Sekolah,SMPN 4 Batang anai
+AAS-S MARISA ENDA PUTRI,Mobile,+62 822-8506-2867,FALSE,* myContacts,Sekolah,SDN 14 Nan Sabaris
+AAS-S NURMIATY,Mobile,+62 812-6741-1336,FALSE,* myContacts,Sekolah,SDN 16 IV Koto Aur Malintang
+AAS-S YEFRIDAWATI,Mobile,+62 813-7435-9162,FALSE,* myContacts,Sekolah,SDN 03 IV KOTO AUR MALINTANG
+AAS-S VIVI ADRIANI,Mobile,+62 851-5777-8759,FALSE,* myContacts,Sekolah,SDN 23 V Koto Timur
+AAS-S RIRI RISTIANI,Mobile,+62 823-9135-4023,FALSE,* myContacts,Sekolah,SMPN 3 Sungai Limau
+"AAS-S MITRA ERLI, S.PD",Mobile,+62 852-7446-2659,FALSE,* myContacts,Sekolah,SMPN 1 Padang Sago
+AAS-S YUEN HARISNAL ILSA,Mobile,+62 813-7108-2124,FALSE,* myContacts,Sekolah,SDN 04 SUNGAI GERINGGING
+AAS-S ELFIRA MAYROZA.S.PD,Mobile,+62 813-7438-0493,FALSE,* myContacts,Sekolah,SDN 13 Sungai Geringging
+AAS-S SYAMSIDAR,Mobile,+62 813-6313-1736,FALSE,* myContacts,Sekolah,SDN 15 2x11 Kayutanam
+AAS-S AFRIYATI,Mobile,+62 812-6136-0606,FALSE,* myContacts,Sekolah,SMPN 1 V Koto Timur
+AAS-S NOFRI ZELKI,Mobile,+62 822-8744-4046,FALSE,* myContacts,Sekolah,SMPN 2 Patamuan
+AAS-S AZMARRISA,Mobile,+62 812-6150-5371,FALSE,* myContacts,Sekolah,SDN 15 V KOTO TIMUR
+AAS-S FIRA ANELA RESKI,Mobile,+62 822-8471-8793,FALSE,* myContacts,Sekolah,SDN 03 Patamuan
+AAS-S SARINAH,Mobile,+62 812-6792-8485,FALSE,* myContacts,Sekolah,SDN 06 Ulakan Tapakis
+AAS-S MAIRINA AFRIDA,Mobile,+62 852-7432-3910,FALSE,* myContacts,Sekolah,SDN 11 Kayu Tanam
+"AAS-S DESWITA VATMAYENTI, S.PD",Mobile,+62 821-2873-4224,FALSE,* myContacts,Sekolah,SDN 26 Sungai Limau
+AAS-S RIZKA WELHAYU PUTRI,Mobile,+62 852-6353-0093,FALSE,* myContacts,Sekolah,SDN 02 IV Koto Aur Malintang
+AAS-S WISDA RAHMI,Mobile,+62 852-6464-0119,FALSE,* myContacts,Sekolah,SD 04 Enam Lingkung 
+AAS-S EVI YULIANDA,Mobile,+62 823-8433-1464,FALSE,* myContacts,Sekolah,SDN 14 Patamuan
+AAS-S NURMALINA,Mobile,+62 812-6768-1740,FALSE,* myContacts,Sekolah,SDN 22 VII KOTO SUNGAI SARIAK
+AAS-S NURHAYATI,Mobile,+62 852-6328-78343,FALSE,* myContacts,Sekolah,SDN 18 2X11 KAYUTANAM
+AAS-S SUFRIZAL,Mobile,+62 813-6303-3143,FALSE,* myContacts,Sekolah,SDN 01 Batang Anai
+AAS-S MARDIANI,Mobile,+62 813-6352-7112,FALSE,* myContacts,Sekolah,SDN 18 VII Koto Sungai Sarik 
+AAS-S HELEN RIANI,Mobile,+62 813-6379-0982,FALSE,* myContacts,Sekolah,SDN 10 Patamuan
+AAS-S NOVRIATNI,Mobile,+62 813-7404-7882,FALSE,* myContacts,Sekolah,SMPN 2 ENAM LINGKUNG
+AAS-S AGITHA YOLANDA,Mobile,+62 812-6899-8187,FALSE,* myContacts,Sekolah,SDN 25 Sungai Limau
+AAS-S AMRI,Mobile,+62 812-6688-5305,FALSE,* myContacts,Sekolah,SDN 07 PATAMUAN
+AAS-S ROSIANA SAYUSTI,Mobile,+62 823-8684-9014,FALSE,* myContacts,Sekolah,SDN 19 Nan Sabaris
+AAS-S NURIZAL,Mobile,+62 852-6394-3781,FALSE,* myContacts,Sekolah,SDN 28 VII KOTO SUNGAI SARIK
+AAS-S YUHELFI,Mobile,+62 813-7462-0536,FALSE,* myContacts,Sekolah,SDN 07 SINTUAK TOBOH GADANG
+AAS-S LASTRIANIS,Mobile,+62 877-7758-9019,FALSE,* myContacts,Sekolah,SDN 01 Batang Gasan
+AAS-S NORAANGGRAINI,Mobile,+62 823-8455-6428,FALSE,* myContacts,Sekolah,SDN 09 2X11 KAYUTANAM
+AAS-S FITRI NILAM SARI,Mobile,+62 823-8925-5700,FALSE,* myContacts,Sekolah,SDN 01 Ulakan Tapakis
+AAS-S SUSI NELFIA,Mobile,+62 812-9295-3937,FALSE,* myContacts,Sekolah,SDN 12 2X11 KAYUTANAM
+AAS-S RAMALI,Mobile,+62 812-6605-4411,FALSE,* myContacts,Sekolah,SDN 16 VII Koto Sungai Sariak 
+AAS-S NOVA PAULINA,Mobile,+62 821-6915-7449,FALSE,* myContacts,Sekolah,SMPN 2 Sintuk Toboh Gadang
+AAS-S IRNA GUSTI,Mobile,+62 812-6608-6406,FALSE,* myContacts,Sekolah,SDN UNGGUL TERPADU
+AAS-S AFRIDA,Mobile,+62 852-2234-2123,FALSE,* myContacts,Sekolah,SMPN 4 VII KOTO
+AAS-S FITRIA SARI,Mobile,+62 853-6465-5797,FALSE,* myContacts,Sekolah,SDN 02 NAN SABARIS
+AAS-S NINING ARIANTI,Mobile,+62 813-7176-0286,FALSE,* myContacts,Sekolah,SDN 28 BATANG ANAI
+AAS-S SUHARMAN,Mobile,+62 821-9034-3244,FALSE,* myContacts,Sekolah,SDN 07 Padang Sago
+AAS-S RATNAWILIS,Mobile,+62 813-7458-2775,FALSE,* myContacts,Sekolah,SDN 15 Enam Lingkung
+"AAS-S YANTI FITRI,S.PD SD",Mobile,+62 852-7880-5870,FALSE,* myContacts,Sekolah,SDN 04 Batang Anai
+AAS-S NURAFNIL,Mobile,+62 852-7130-2086,FALSE,* myContacts,Sekolah,SDN 17 NAN SABARIS
+AAS-S MURTI,Mobile,+62 812-6630-6105,FALSE,* myContacts,Sekolah,SDN 05 Enam Lingkung
+AAS-S MISRAWATI MUSLIM,Mobile,+62 813-7035-6251,FALSE,* myContacts,Sekolah,SDN 19 Enam Lingkung 
+AAS-S LINDA MAILINDA,Mobile,+62 852-7483-5030,FALSE,* myContacts,Sekolah,SDN 18 Enam Lingkung
+AAS-S JASNIDA,Mobile,+62 852-6396-0455,FALSE,* myContacts,Sekolah,SDN 30 Vll Koto Sungai Sarik
+AAS-S MUTIA YUNITA,Mobile,+62 812-7090-2574,FALSE,* myContacts,Sekolah,SDN 05 PADANG SAGO
+AAS-S ERMIYENTI,Mobile,+62 831-8662-5115,FALSE,* myContacts,Sekolah,SDN 05 Batang Gasan
+AAS-S ZALWIS JEN,Mobile,+62 823-5722-8828,FALSE,* myContacts,Sekolah,SDN 21 VII Koto Sungai Sarik
+AAS-S SYAFRIATI,Mobile,+62 823-8578-8517,FALSE,* myContacts,Sekolah,SDN 02 Ulakan Tapakis
+AAS-S MITRAWATI,Mobile,+62 813-7279-2856,FALSE,* myContacts,Sekolah,SDN 29 V KOTO KAMPUNG DALAM
+AAS-S EKA PUTRI YANI,Mobile,+62 812-7059-0565,FALSE,* myContacts,Sekolah,SMPN 2 Batang Anai
+AAS-S RESKI SISWANDO,Mobile,+62 853-7595-0070,FALSE,* myContacts,Sekolah,SDN 07 Batang gasan
+AAS-S LILI SARTIKA,Mobile,+62 852-6326-3486,FALSE,* myContacts,Sekolah,SMPN 3 Nan Sabaris
+"AAS-S NURINSYAH,S.PD.SD",Mobile,+62 821-1446-8571,FALSE,* myContacts,Sekolah,SDN 09 VII KOTO SUNGAI SARIK
+AAS-S ERMAWATI. S,Mobile,+62 813-7437-7264,FALSE,* myContacts,Sekolah,SDN 06 VII Koto Sungai Sarik
+AAS-S RISKI PRATAMA,Mobile,+62 831-8241-5730,FALSE,* myContacts,Sekolah,SDN 33 VII Koto Sungai Sarik 
+AAS-S ULMI HIDAYAT,Mobile,+62 812-6717-5356,FALSE,* myContacts,Sekolah,SDN 17 V Koto Timur
+AAS-S NOFRIANTO,Mobile,+62 852-7270-2426,FALSE,* myContacts,Sekolah,SDN 22 Nan Sabaris
+AAS-S FEBRIANTI MAYA IDA,Mobile,+62 823-8828-7516,FALSE,* myContacts,Sekolah,SDN 22 Sungai Limau
+AAS-S YUFAJRI AMELIA,Mobile,+62 822-6813-9756,FALSE,* myContacts,Sekolah,SDN 16 SUNGAI LIMAU
+AAS-S NURBAYENTI,Mobile,+62 812-7532-4419,FALSE,* myContacts,Sekolah,SDN 18 BATANG ANAI
+AAS-S RAHAYU KARTIN NINGSIH,Mobile,+62 812-7642-1578,FALSE,* myContacts,Sekolah,SDN 13 BATANG ANAI
+AAS-S YUNISA ELVIAROZA,Mobile,+62 853-5604-5729,FALSE,* myContacts,Sekolah,SDN 13 Batang Gasan
+AAS-S DESSI VERAWATI,Mobile,+62 822-6941-0707,FALSE,* myContacts,Sekolah,SDN 12 Batang Gasan
+AAS-S MARLINA,Mobile,+62 812-6717-9553,FALSE,* myContacts,Sekolah,SDN 35 VII KOTO SUNGAI SARIK
+AAS-S ASWIRA MARDIAH,Mobile,+62 852-7477-9076,FALSE,* myContacts,Sekolah,SDN 40 Sungai Limau
+AAS-O WAHYU SATRIA,Mobile,+62 813-8875-7570,FALSE,* myContacts,OPD,Inspektorat
+AAS-S RAHMAN SAUNDI,Mobile,+62 812-7020-2353,FALSE,* myContacts,Sekolah,SDN 07 2X11 KAYUTANAM
+AAS-S ZUKHRIMAL ARFAN,Mobile,+62 821-7279-9601,FALSE,* myContacts,Sekolah,SDN 08 BATANG GASAN
+AAS-S NOVIANI,Mobile,+62 813-6324-3923,FALSE,* myContacts,Sekolah,SDN 18 IV Koto Aur Malintang
+AAS-S ERNAWATI,Mobile,+62 852-6351-8719,FALSE,* myContacts,Sekolah,SDN 05 Sintuk Toboh Gadang
+AAS-S JUSMANIAR S PD,Mobile,+62 813-4728-4321,FALSE,* myContacts,Sekolah,SDN 09 SINTUK TOBOH GADANG
+AAS-S FAUZA EEINA,Mobile,+62 813-6372-7716,FALSE,* myContacts,Sekolah,SDN 02 Batang Gasan
+AAS-S DARMAWI,Mobile,+62 821-7099-7568,FALSE,* myContacts,Sekolah,SDN 11 Sintuk Toboh Gadang
+AAS-S MHD. ANDRI,Mobile,+62 822-8496-0923,FALSE,* myContacts,Sekolah,SDN 15 SUNGAI GERINGGING
+AAS-S ENDRI,Mobile,+62 813-6348-3117,FALSE,* myContacts,Sekolah,SDN 20 IV Koto Aur Malintang
+AAS-S ROBI ALMI,Mobile,+62 852-1379-0203,FALSE,* myContacts,Sekolah,SDN 31 LUBUK ALUNG
+AAS-S SRI WAHYUNI,Mobile,+62 813-7496-0060,FALSE,* myContacts,Sekolah,SDN 22 LUBUK ALUNG
+AAS-S HANDNI HERAWATI,Mobile,+62 853-6548-1910,FALSE,* myContacts,Sekolah,SDN 15 Batang Anai
+AAS-S ROSI PUSPITA SARI,Mobile,+62 821-6922-3162,FALSE,* myContacts,Sekolah,SDN 17 Enam Lingkung
+"AAS-S ELWITA RAHMI, S.PD.",Mobile,+62 813-6439-7418,FALSE,* myContacts,Sekolah,SDN 10 BATANG GASAN
+"AAS-S LISA GUSMIRA,SE",Mobile,+62 852-6454-0492,FALSE,* myContacts,Sekolah,SDN 06 V Koto Timur
+AAS-S EFNI ZARIANTI,Mobile,+62 852-6397-4150,FALSE,* myContacts,Sekolah,SDN 07 VII Koto Sungai Sarik 
+AAS-S DASNIATI,Mobile,+62 838-3142-5020,FALSE,* myContacts,Sekolah,SDN 15 Batang Gasan
+AAS-P MUTIA SARI,Mobile,+62 813-7466-1895,FALSE,* myContacts,Puskesmas,Puskesmas Limau Purut
+AAS-S SYAFRUDDIIN,Mobile,+62 852-6313-9474,FALSE,* myContacts,Sekolah,SDN 04 Padang Sago
+AAS-S ROSNI,Mobile,+62 812-6762-1563,FALSE,* myContacts,Sekolah,SDN 03 Ulakan Tapakis
+AAS-S SURATMI,Mobile,+62 821-2560-7249,FALSE,* myContacts,Sekolah,SDN 18 Batang Gasan
+AAS-S REVI JUNIATI,Mobile,+62 822-8821-51555,FALSE,* myContacts,Sekolah,SDN 24 IV Koto Aur Malintang
+AAS-S ZARNITA.S.KOM,Mobile,+62 823-8937-6058,FALSE,* myContacts,Sekolah,SMPN 2 IV Koto Aur Malintang
+AAS-K ENNY VIRONITA,Mobile,+62 811-6688-682,TRUE,* myContacts,Kecamatan,Kantor Camat Padang Sago
+AAS-S SYAMSUARDI,Mobile,+62 813-7484-1695,FALSE,* myContacts,Sekolah,SDN 06 Padang Sago
+AAS-S YULIDAWATI,Mobile,+62 823-8614-7547,FALSE,* myContacts,Sekolah,SDN 02 Lubuk Alung
+AAS-S ROSNELLI,Mobile,+62 823-8668-7245,FALSE,* myContacts,Sekolah,SDN 18 V KOTO KAMPUNG DALAM
+AAS-K SUSILAWATI,Mobile,+62 813-7422-6380,FALSE,* myContacts,Kecamatan,Kantor Camat Sintuk Toboh Gadang
+AAS-S JUMIATIL LAILI,Mobile,+62 812-7692-9925,FALSE,* myContacts,Sekolah,SDN 21 Batang Anai
+AAS-S NELVI HARLINA SARI,Mobile,+62 853-7464-6344,FALSE,* myContacts,Sekolah,SDN 05 Batang Anai
+AAS-S CICI DAHLIA,Mobile,+62 813-6359-5420,FALSE,* myContacts,Sekolah,SD 02 Enam Lingkung
+AAS-S DELFI RAHMADANI,Mobile,+62 812-9677-1734,FALSE,* myContacts,Sekolah,SDN 28 LUBUK ALUNG
+AAS-S PUTRI PANDALENI,Mobile,+62 853-6416-5903,FALSE,* myContacts,Sekolah,SDN 09 V Koto Kampung Dalam
+AAS-S RIDO MAI GUSTIA,Mobile,+62 813-7129-8866,FALSE,* myContacts,Sekolah,SDN 34 Sungai Limau
+AAS-S YANRIZAL,Mobile,+62 813-7411-8854,FALSE,* myContacts,Sekolah,SDN 18 Sungai Geringging
+AAS-S JULI ASTATI,Mobile,+62 852-6362-0297,FALSE,* myContacts,Sekolah,SDN 32 VII Koto Sungai Sarik
+AAS-K SISKA NERITA,Mobile,+62 813-6366-3845,FALSE,* myContacts,Kecamatan,Kecamatan Enam Lingkung
+AAS-S MEGA MARDIANTI,Mobile,+62 852-6412-1654,FALSE,* myContacts,Sekolah,SDN 17 IV koto Aur malintang
+AAS-S INDAH SYAFRINA YULIA SARI,Mobile,+62 822-8577-7786,FALSE,* myContacts,Sekolah,SDN 15 IV Koto Aur Malintang
+AAS-S DEDY CANDRA,Mobile,+62 822-8420-3678,FALSE,* myContacts,Sekolah,SDN 32 SUNGAI LIMAU
+AAS-S MARYUNIS,Mobile,+62 812-8310-2484,FALSE,* myContacts,Sekolah,SDN 04 Sungai Limau
+AAS-S RIAWATI,Mobile,+62 852-7479-7415,FALSE,* myContacts,Sekolah,SMPN 5 LUBUK ALUNG
+AAS-S RIKO  HENDRIANTO,Mobile,+62 852-7457-1330,FALSE,* myContacts,Sekolah,SDN 11 Sungai Limau
+AAS-S RIZQI YULI AMRI,Mobile,+62 823-8828-3190,FALSE,* myContacts,Sekolah,SDN 16 V Koto Kampung Dalam
+AAS-S DARMITA,Mobile,+62 812-7795-4890,FALSE,* myContacts,Sekolah,SDN 24 VII KOTO SUNGAI SARIK 
+AAS-S HENDRIADI,Mobile,+62 852-7347-0888,FALSE,* myContacts,Sekolah,SD 11 VII KOTO SUNGAI SARIK
+AAS-S SURAIDI,Mobile,+62 813-7495-9010,FALSE,* myContacts,Sekolah,SD 03 Padang Sago
+AAS-S JAMINAR,Mobile,+62 852-7497-7695,FALSE,* myContacts,Sekolah,SDN 12 Sintuk Toboh Gadang
+AAS-S MELDA NOVALINDA ZETRI,Mobile,+62 823-7794-5152,FALSE,* myContacts,Sekolah,SDN 14 2x11 Kayutanam
+AAS-S ADEK MUTIA,Mobile,+62 831-7798-8203,FALSE,* myContacts,Sekolah,SDN 25 Lubuk Alung
+AAS-S ARMATASIDA,Mobile,+62 823-8395-1897,FALSE,* myContacts,Sekolah,SDN 14 VII koto sungai sariak
+AAS-S MARYULIS,Mobile,+62 853-6360-9981,FALSE,* myContacts,Sekolah,SDN 38 Sungai Limau
+AAS-S MIMIFARIATI,Mobile,+62 812-8717-6633,FALSE,* myContacts,Sekolah,SDN 08 Ulakan Tapakis
+AAS-S ZULBAIDA,Mobile,+62 813-6545-6333,FALSE,* myContacts,Sekolah,SDN 19 V Koto Timur
+"AAS-S FERLINA, S.PD",Mobile,+62 813-6322-9657,FALSE,* myContacts,Sekolah,TK Swasta Wilayah III
+AAS-S YANTI S PD,Mobile,+62 813-7445-0378,FALSE,* myContacts,Sekolah,SDN 01 VII Koto Sungai Sarik
+AAS-S NURDIANIS,Mobile,+62 853-5508-8055,FALSE,* myContacts,Sekolah,SDN 03 VII KOTO SUNGAI SARIAK
+AAS-S FIQHI ANNISA RAMADHANI,Mobile,+62 831-8156-8422,FALSE,* myContacts,Sekolah,SDN 03 Lubuk Alung
+AAS-S HENDRA KANIDI,Mobile,+62 823-8366-0013,FALSE,* myContacts,Sekolah,SDN 01 Sintuk Toboh Gadang
+AAS-L YOZI SRI RAHMADHANI,Mobile,+62 822-8545-4835,FALSE,* myContacts,Lainnya,SDN 27 V KOTO KAMPUNG DALAM
+"AAS-S YURNI, S.PD. SD",Mobile,+62 812-7641-2321,FALSE,* myContacts,Sekolah,SDN 07 Enam Lingkung
+AAS-S NOVIA RIKA,Mobile,+62 853-7616-8797,FALSE,* myContacts,Sekolah,SDN 15 Sungai Limau
+AAS-S MERI ANDANI,Mobile,+62 823-8256-7414,FALSE,* myContacts,Sekolah,SDN 12 2x11 enam Lingkung
+AAS-S NEFRI YENITA,Mobile,+62 852-7467-1298,FALSE,* myContacts,Sekolah,SDN 11 Patamuan
+AAS-S DINI PERTIKA,Mobile,+62 838-6137-2125,FALSE,* myContacts,Sekolah,SDN 22 BATANG ANAI
+AAS-S DESI ARISANDI,Mobile,+62 853-6355-5586,FALSE,* myContacts,Sekolah,SDN 14 Lubuk Alung
+AAS-S RIKO NARA,Mobile,+62 852-7411-8766,FALSE,* myContacts,Sekolah,SDN 08 Batang Anai
+AAS-S NURASLINDA,Mobile,+62 852-6492-1073,FALSE,* myContacts,Sekolah,SDN 12 IV Koto Aur Malintang
+AAS-K MARYULIS,Mobile,+62 813-6340-9599,FALSE,* myContacts,Kecamatan,Kecamatan Batang Anai
+AAS-S POPY MEILIA TSANI,Mobile,+62 813-6361-9251,FALSE,* myContacts,Sekolah,SDN 27 Sungai Limau
+AAS-K IDRIS ADRIANTO,Mobile,+62 852-7451-0234,FALSE,* myContacts,Kecamatan,Kecamatan Batang Gasan
+AAS-L YULISNI,Mobile,+62 813-7439-7896,FALSE,* myContacts,Lainnya,Sanggar Kegiatan Belajar (SKB)
+AAS-S TIARA PUSPA ALDITA,Mobile,+62 852-7262-7496,FALSE,* myContacts,Sekolah,SDN 20 BATANG ANAI
+AAS-S IRNAYANTI,Mobile,+62 853-6352-4877,FALSE,* myContacts,Sekolah,TK SWASTA Wilayah II
+AAS-S RUWAIDA,Mobile,+62 813-6461-8872,FALSE,* myContacts,Sekolah,SDN 10 Sungai Limau
+AAS-O DELIMAWARNI,Mobile,+62 812-6694-953,TRUE,* myContacts,OPD,SDN 30 V KOTO KAMPUNG DALAM
+AAS-S MUHARMEN,Mobile,+62 812-7612-0124,FALSE,* myContacts,Sekolah,SDN 13 V KOTO KAMPUNG DALAM
+AAS-S ARIAN PUTRA,Mobile,+62 823-8682-9115,FALSE,* myContacts,Sekolah,SDN 01 Sungai Geringging
+AAS-S DELI MARLINA,Mobile,+62 853-5508-7554,FALSE,* myContacts,Sekolah,SDN 07 Nan Sabaris
+AAS-S NESYA AQMI DARMA,Mobile,+62 823-8768-0887,FALSE,* myContacts,Sekolah,SDN 23 IV Koto Aur Malintang
+AAS-S ANGGI RAHMAT PERNANDO,Mobile,+62 813-1708-8998,FALSE,* myContacts,Sekolah,SDN 13 SUNGAI LIMAU
+AAS-L NURZATI,Mobile,+62 852-7405-2541,FALSE,* myContacts,Lainnya,SDN 11 Sungai Geringging
+AAS-S MARLINA,Mobile,+62 812-6602-1855,FALSE,* myContacts,Sekolah,SDN 05 VII KOTO SUNGAI SARIK
+"AAS-S ADRI PRIANDES, S.PD,AIFO",Mobile,+62 852-6377-0580,FALSE,* myContacts,Sekolah,SMPN 5 IV Koto Aur Malintang
+AAS-S ALMIADI PUTRA,Mobile,+62 812-6753-2323,FALSE,* myContacts,Sekolah,SMPN 4 V KOTO KAMPUNG DALAM
+AAS-S HESTY AYU HARJONO,Mobile,+62 853-7642-7999,FALSE,* myContacts,Sekolah,SDN 01 Lubuk Alung
+AAS-S ZALIASMAN,Mobile,+62 812-6604-9168,FALSE,* myContacts,Sekolah,SDN 14 ULAKAN TAPAKIS
+AAS-S FEBRI YOGA PRATAMA,Mobile,+62 813-7407-1131,FALSE,* myContacts,Sekolah,SDN 26 BATANG ANAI
+AAS-S ZAINIRIZAL,Mobile,+62 822-8874-0002,FALSE,* myContacts,Sekolah,SDN 05 V KOTO TIMUR
+AAS-S ZULHEMA,Mobile,+62 813-7410-1730,FALSE,* myContacts,Sekolah,SDN 09 Nan Sabaris
+AAS-S KESRI RAHAYU NENGSIH,Mobile,+62 813-7811-5071,FALSE,* myContacts,Sekolah,SDN 05 Sungai Limau
+AAS-S MARNA DEVI,Mobile,+62 822-8452-7866,FALSE,* myContacts,Sekolah,SDN 35 SUNGAI LIMAU
+AAS-S MASRIAL,Mobile,+62 823-8677-4039,FALSE,* myContacts,Sekolah,SDN 22 V Koto Timur
+AAS-S MONALISA AFRITA,Mobile,+62 823-8505-7778,FALSE,* myContacts,Sekolah,SDN 11 IV Koto Aur Malintang
+AAS-S ADLIS PRAMANA,Mobile,+62 813-6566-1367,FALSE,* myContacts,Sekolah,SDN 36 Sungai limau
+AAS-S DARWIS,Mobile,+62 823-9114-9779,FALSE,* myContacts,Sekolah,SMPN 4 Sungai Geringging
+AAS-S TRIANA PUTRI,Mobile,+62 812-6647-0022,FALSE,* myContacts,Sekolah,SDN 23 nan sabaris
+AAS-S NETMAWATI,Mobile,+62 838-0198-8469,FALSE,* myContacts,Sekolah,SDN 12 Nan Sabaris
+AAS-S MELISA,Mobile,+62 823-8782-5026,FALSE,* myContacts,Sekolah,SDN 13 Nan Sabaris
+AAS-S ERLIZA,Mobile,+62 812-7067-5843,FALSE,* myContacts,Sekolah,SDN 04 Nan Sabaris
+AAS-S TITI WIJAYANTI,Mobile,+62 813-7461-0951,FALSE,* myContacts,Sekolah,SMPN 1 Batang Anai
+AAS-S DINA SYOFIANDI,Mobile,+62 852-6328-5671,FALSE,* myContacts,Sekolah,SDN 12 Lubuk Alung
+AAS-S FEBRIAN NANDA,Mobile,+62 852-7400-9400,FALSE,* myContacts,Sekolah,SDN 34 VII Koto Sungai Sarik
+AAS-S YOSA ELVINANDA,Mobile,+62 812-7787-6512,FALSE,* myContacts,Sekolah,SDN 11 Nan Sabaris
+AAS-S SISRIZA SULASNI,Mobile,+62 852-1717-6903,FALSE,* myContacts,Sekolah,SDN 19 Sungai Geringging
+AAS-S YOSI AFRIANTI,Mobile,+62 852-7194-5147,FALSE,* myContacts,Sekolah,SDN 39 SUNGAI LIMAU
+AAS-S YULIARTI,Mobile,+62 822-8340-4997,FALSE,* myContacts,Sekolah,SDN 06 ENAM LINGKUNG
+AAS-S YARNISNA,Mobile,+62 821-7020-9502,FALSE,* myContacts,Sekolah,SDN 26 V KOTO KAMPUNG DALAM
+AAS-S MUTIA FALMA,Mobile,+62 823-8696-8601,FALSE,* myContacts,Sekolah,SDN 10 Nan Sabaris
+AAS-S ELSA WAHYUNI,Mobile,+62 822-4577-7759,FALSE,* myContacts,Sekolah,SDN 25 BATANG ANAI
+AAS-S NOVENY SRI RAHAYU,Mobile,+62 813-6500-9899,FALSE,* myContacts,Sekolah,TK Unggul Terpadu
+AAS-S PANJI PRIANDA PUTRA,Mobile,+62 812-7788-5260,FALSE,* myContacts,Sekolah,SDN 19 Sungai Limau
+AAS-S GUSMAWATI,Mobile,+62 812-6347-8379,FALSE,* myContacts,Sekolah,SD 02 Batang Anai
+AAS-S YELRIZA,Mobile,+62 823-9077-0661,FALSE,* myContacts,Sekolah,SDN 12 Batang Anai
+AAS-S ANI ENJELINA,Mobile,+62 813-6566-0780,FALSE,* myContacts,Sekolah,SDN 29 Sungai Geringging
+AAS-S NURKARNAINI,Mobile,+62 812-6605-7489,FALSE,* myContacts,Sekolah,SDN 20 Sungai Limau
+AAS-S PETMIWATI,Mobile,+62 813-6317-2373,FALSE,* myContacts,Sekolah,SDN 16 SUNGAI GERINGGING
+AAS-S LENI MARLINA,Mobile,+62 852-6303-0492,FALSE,* myContacts,Sekolah,SDN 16 NAN SABARIS
+AAS-S AMIRUL ARIEF,Mobile,+62 852-6380-0861,FALSE,* myContacts,Sekolah,SDN 19 IV KOTO AUR MALINTANG
+AAS-S NELFI AGUSTI,Mobile,+62 853-6535-5809,FALSE,* myContacts,Sekolah,SDN 18 Lubuk Alung
+AAS-O ADE RAYENDRA,Mobile,+62 857-6321-3730,FALSE,* myContacts,OPD,Test and Development - DO NOT Delete
+AAS-S ZURAIDA.Z,Mobile,+62 812-6692-5336,FALSE,* myContacts,Sekolah,SDN 23 VII KOTO SUNGAI SARIK
+AAS-S ADITIAWARMAN,Mobile,+62 813-7114-3485,FALSE,* myContacts,Sekolah,SMPN 1 SUNGAI LIMAU
+AAS-S ENDRAWATI,Mobile,+62 813-7114-4149,FALSE,* myContacts,Sekolah,SDN 02 Sungai Limau 
+AAS-S NADIA SAVIRA,Mobile,+62 822-8806-4360,FALSE,* myContacts,Sekolah,SDN 07 V Koto Timur
+AAS-S JULIA WIWINSIH,Mobile,+62 852-6654-4251,FALSE,* myContacts,Sekolah,SDN 21 NAN SABARIS
+AAS-S DHEVA AULIA,Mobile,+62 853-6392-5241,FALSE,* myContacts,Sekolah,SDN 10 Batang Anai
+AAS-S MUTIA TRIUMARLI,Mobile,+62 822-8410-4173,FALSE,* myContacts,Sekolah,SDN 14 V KOTO TIMUR
+AAS-S TIARA SRI KARTIKA,Mobile,+62 822-8500-9024,FALSE,* myContacts,Sekolah,SDN 03 V KOTO TIMUR
+AAS-S SRI OCTAVIANI,Mobile,+62 812-6776-0531,FALSE,* myContacts,Sekolah,SDN 12 Ulakan Tapakis
+AAS-S CICI GUSMAWATI,Mobile,+62 852-7251-6533,FALSE,* myContacts,Sekolah,SDN 04 Ulakan Tapakis
+AAS-S MALIARNI,Mobile,+62 853-5508-8157,FALSE,* myContacts,Sekolah,SDN 23 sungai geringging 
+AAS-S NOLA DEWI SAPUTRI,Mobile,+62 822-8569-5602,FALSE,* myContacts,Sekolah,SDN 32 Lubuk Alung
+AAS-S ARYENI FITRI,Mobile,+62 812-6653-3344,FALSE,* myContacts,Sekolah,SDN 06 Batang Anai
+AAS-S BERLY ROZA,Mobile,+62 822-8820-5508,FALSE,* myContacts,Sekolah,SDN 05 LUBUK ALUNG
+AAS-S ELIS YULIATI,Mobile,+62 823-8930-0580,FALSE,* myContacts,Sekolah,SDN 17 Batang Gasan
+AAS-S NOFRIADI EKA PUTRA,Mobile,+62 822-8503-9437,FALSE,* myContacts,Sekolah,SDN 20 LUBUK ALUNG
+AAS-S ROSMALI KARANA,Mobile,+62 852-6395-7315,FALSE,* myContacts,Sekolah,SDN 11 Ulakan Tapakis
+AAS-S YETNI MANDASARI,Mobile,+62 812-6683-707,TRUE,* myContacts,Sekolah,SDN 07 IV Koto Aur Malintang 
+AAS-S AFDAYETI,Mobile,+62 813-6301-4173,FALSE,* myContacts,Sekolah,SD N 15 LUBUK ALUNG
+AAS-K NURFAJRI IKHLAS,Mobile,+62 852-7472-6843,FALSE,* myContacts,Kecamatan,Kantor Camat Ulakan Tapakis
+AAS-S RASMI,Mobile,+62 821-8346-8535,FALSE,* myContacts,Sekolah,SDN 41 sungai limau
+"AAS-S YUSMITA, S.PD.SD",Mobile,+62 853-6308-8805,FALSE,* myContacts,Sekolah,SDN 18 V KOTO TIMUR
+AAS-S DIYEN NOVITA,Mobile,+62 822-8421-5160,FALSE,* myContacts,Sekolah,SDN 17 BATANG ANAI
+AAS-S NURHUSNI,Mobile,+62 823-4529-2678,FALSE,* myContacts,Sekolah,SDN 10 Lubuk Alung
+AAS-S ERLINA,Mobile,+62 852-6324-7587,FALSE,* myContacts,Sekolah,SDN 03 Nan Sabaris
+AAS-S SUMARNI,Mobile,+62 852-7422-0445,FALSE,* myContacts,Sekolah,SDN 07 Ulakan Tapakis
+AAS-S M.NUR AFLI,Mobile,+62 857-6612-8485,FALSE,* myContacts,Sekolah,SDN 17 LUBUK ALUNG
+AAS-S NUNING RANCISKA,Mobile,+62 823-9186-0380,FALSE,* myContacts,Sekolah,SD 05 Sungai Geringging 
+AAS-S SUPRIYANDI ARIPIN,Mobile,+62 812-7560-8564,FALSE,* myContacts,Sekolah,SDN 12 V KOTO KAMPUNG DALAM
+AAS-S EKA LISA PUTRI,Mobile,+62 813-7469-9028,FALSE,* myContacts,Sekolah,SDN 24 V Koto Timur
+AAS-K IBNU KHAIRA,Mobile,+62 822-8344-0168,FALSE,* myContacts,Kecamatan,Kantor Camat IV Koto Aur Malintang
+AAS-S HENDRA MASRIZAL,Mobile,+62 821-8239-0909,FALSE,* myContacts,Sekolah,SDN 04 BATANG GASAN
+AAS-S ANITA ULPA,Mobile,+62 852-6338-1653,FALSE,* myContacts,Sekolah,SDN 16 V Koto Timur
+AAS-S ADRIATUL MUKHLIS,Mobile,+62 823-8437-2053,FALSE,* myContacts,Sekolah,SDN 15 Nan Sabaris
+AAS-S ABDUL MERI SUHATMAN,Mobile,+62 812-6717-7270,FALSE,* myContacts,Sekolah,SDN 20 V KOTO KAMPUNG 
+AAS-S IRVAN AFANDI,Mobile,+62 852-6534-6709,FALSE,* myContacts,Sekolah,SDN 27 Lubuk Alung
+AAS-S MONA SESRAWATI,Mobile,+62 822-4727-5281,FALSE,* myContacts,Sekolah,SDN 17 Sungai Limau
+AAS-O NOFRI AZNIKA PUTRA,Mobile,+62 852-7839-2304,FALSE,* myContacts,OPD,Dinas Sosial Pemberdayaan Perempuan dan Perlindungan Anak
+AAS-K LIZA MIZIWARTI,Mobile,+62 812-7661-2382,FALSE,* myContacts,Kecamatan,Kecamatan Nan Sabaris
+AAS-S SELAIN ASRIZON,Mobile,+62 852-6369-8340,FALSE,* myContacts,Sekolah,SDN 34 Lubuk Alung
+AAS-S AFRIANDRI,Mobile,+62 813-7440-8053,FALSE,* myContacts,Sekolah,SDN 29 VII Koto Sungai Sarik
+AAS-S RISAUWATI,Mobile,+62 853-6483-5766,FALSE,* myContacts,Sekolah,sdn 09 patamuan
+AAS-S SISKA ANDELA,Mobile,+62 823-8420-6181,FALSE,* myContacts,Sekolah,SDN 20 Sungai Geringging
+AAS-S GUSRA FREZA,Mobile,+62 852-4527-1475,FALSE,* myContacts,Sekolah,SDN 28 Sungai Limau
+AAS-S ROSI INDRIANI,Mobile,+62 813-6375-2511,FALSE,* myContacts,Sekolah,SDN 21 V Koto Timur

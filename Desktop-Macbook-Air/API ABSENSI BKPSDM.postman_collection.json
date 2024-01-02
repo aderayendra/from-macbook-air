@@ -1,0 +1,190 @@
+{
+	"info": {
+		"_postman_id": "380879b5-1616-41bf-ab81-129368e6b87f",
+		"name": "API ABSENSI BKPSDM",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "8231584"
+	},
+	"item": [
+		{
+			"name": "att_report",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "month",
+							"value": "01",
+							"type": "text"
+						},
+						{
+							"key": "year",
+							"value": "2023",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://absensi.padangpariamankab.go.id/api-absen/att_report",
+					"protocol": "https",
+					"host": [
+						"absensi",
+						"padangpariamankab",
+						"go",
+						"id"
+					],
+					"path": [
+						"api-absen",
+						"att_report"
+					],
+					"query": [
+						{
+							"key": "month",
+							"value": "01",
+							"disabled": true
+						},
+						{
+							"key": "year",
+							"value": "2023",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "att_report/absensi_bulanan_kantor",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "bulan",
+							"value": "01",
+							"type": "text"
+						},
+						{
+							"key": "tahun",
+							"value": "2023",
+							"type": "text"
+						},
+						{
+							"key": "id_kantor",
+							"value": "27",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://absensi.padangpariamankab.go.id/api-absen/att_report/absensi_bulanan_kantor",
+					"protocol": "https",
+					"host": [
+						"absensi",
+						"padangpariamankab",
+						"go",
+						"id"
+					],
+					"path": [
+						"api-absen",
+						"att_report",
+						"absensi_bulanan_kantor"
+					],
+					"query": [
+						{
+							"key": "month",
+							"value": "01",
+							"disabled": true
+						},
+						{
+							"key": "year",
+							"value": "2023",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "att_report/list_kantor",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "month",
+							"value": "01",
+							"type": "text"
+						},
+						{
+							"key": "year",
+							"value": "2023",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "https://absensi.padangpariamankab.go.id/api-absen/att_report/list_kantor",
+					"protocol": "https",
+					"host": [
+						"absensi",
+						"padangpariamankab",
+						"go",
+						"id"
+					],
+					"path": [
+						"api-absen",
+						"att_report",
+						"list_kantor"
+					],
+					"query": [
+						{
+							"key": "month",
+							"value": "01",
+							"disabled": true
+						},
+						{
+							"key": "year",
+							"value": "2023",
+							"disabled": true
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					"pm.request.headers.add({",
+					"    key: 'X-API-KEY',",
+					"    value: '@#2022'",
+					"});"
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	]
+}
